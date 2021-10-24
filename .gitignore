@@ -1,0 +1,29 @@
+# Project exclude paths
+/.gradle/
+/Bulls and Cows/task/build/
+/Bulls and Cows/task/out/
+/Bulls and Cows/task/out/production/classes/
+/Topics/Arrays as parameters/Adding values/out/
+/Topics/Arrays as parameters/Adding values/out/production/classes/
+/Topics/Arrays as parameters/Application as a class/out/
+/Topics/Arrays as parameters/Application as a class/out/production/classes/
+/Topics/Enums in Java/Hidden enumeration/out/
+/Topics/Enums in Java/Hidden enumeration/out/production/classes/
+/Topics/Exception handling/Converting and multiplying/out/
+/Topics/Exception handling/Converting and multiplying/out/production/classes/
+/Topics/Fields and methods in enum/Robot control/out/
+/Topics/Fields and methods in enum/Robot control/out/production/classes/
+/Topics/Getters and setters/Book/out/
+/Topics/Getters and setters/Book/out/production/classes/
+/Topics/Getters and setters/Getting the fullname/out/
+/Topics/Getters and setters/Getting the fullname/out/production/classes/
+/Topics/Hierarchy of exceptions/Base class/out/
+/Topics/Hierarchy of exceptions/Base class/out/production/classes/
+/Topics/Iterating over arrays/Check if an array contains two numbers/out/
+/Topics/Iterating over arrays/Check if an array contains two numbers/out/production/classes/
+/Topics/Processing strings/Number of occurrences/out/
+/Topics/Processing strings/Number of occurrences/out/production/classes/
+/Topics/Random/Generate random numbers/out/
+/Topics/Random/Generate random numbers/out/production/classes/
+/Topics/StringBuilder/The English alphabet/out/
+/Topics/StringBuilder/The English alphabet/out/production/classes/
